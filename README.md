@@ -9,7 +9,6 @@ streamline and automate various aspects of employee management within an organiz
 It helps HR departments and managers efficiently handle tasks related to employees
 
 
-<img src="Hrprojectimage.jpg" alt="HR Management Home Screen"/>
 
 
 ## Description
@@ -53,15 +52,7 @@ Delete         : User can Delete the employee and will be removed from employees
 
 
 
-## Wireframe Images
-<img src="employeewireframe.jpg" alt="HR Management employee Screen"/>
-
-
-
-
-
-
-## <a name="design"></a>Design
+# <a name="design"></a>Design
 * Descrition of what inspired your design. Ex: Design elements implemented using HTML5 and CSS3. 
 I worked in ERP HRMS technnical. I felt excited to put same on web development make myself a 
 HR portal using HTML and CSS, ReactJs and saving the same into MongoDB No SQL database.
@@ -101,7 +92,7 @@ Develop leave management
 Login as of now hardcoded make it verify username based on database data existence.
 
 ## <a name="deployment"></a>Deployed Link
-[Netlify]([https://wonderful-brahmagupta-6a75d3.netlify.com](https://connect4pc.netlify.app/))
+https://capstonereactwebprojectfrontend.onrender.com
 
 * You can view the repository:
 [Github.com](https://github.com/Gr8ness21/Connect-4)
